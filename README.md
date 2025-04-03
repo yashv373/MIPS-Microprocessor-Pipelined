@@ -5,6 +5,5 @@ RTL Design of a 5 stage Pipelined MIPS RISC microprocessor without Hazard handli
 Project by:
 Yashvardhan Singh 
 Megh Giri
-Siddharth Penumatsa
 ```
 ---
