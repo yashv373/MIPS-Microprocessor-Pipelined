@@ -4,6 +4,8 @@ RTL Design of a 5 stage Pipelined MIPS RISC microprocessor without Hazard handli
 -----------------------------------------------------------
 ## 5‑Stage Pipelined MIPS RISC Microprocessor (Verilog Implementation)
 This project implements a classic MIPS processor using a 5‑stage pipeline (IF, ID, EX, MEM, WB) without any built‑in hazard detection or forwarding. To ensure correct operation, the testbench carefully inserts NOP (No Operation) instructions between dependent instructions, preventing data hazards for the specific test cases demonstrated.
+<img width="795" alt="rtl_mips" src="https://github.com/user-attachments/assets/1ec3f2ca-ef4e-4e9f-be46-b271c9e72ed1" />
+
 
 -----------------------------------------------------------
 ## Table of Contents
